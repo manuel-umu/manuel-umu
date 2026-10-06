@@ -61,9 +61,24 @@
 ## 🚀 Proyectos destacados
 
 <table>
+    <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/manuel-umu/lacre">lacre</a></h3>
+      <p>Componente de facturación <b>Veri*Factu</b> open source: genera los registros de facturación encadenados criptográficamente con su huella y los remite a la <b>AEAT</b>. API REST autoalojada con consola de operación, probada contra el entorno de pruebas de la AEAT.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/htmx-3366CC?style=flat-square&logo=htmx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SOAP_·_mTLS-555555?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
-<h3><a href="https://github.com/manuel-umu/TFG-GAIA-TOOL">🌱 GaiaTool</a></h3>
+<h3><a href="https://github.com/manuel-umu/TFG-GAIA-TOOL">GaiaTool</a></h3>
       <p>Generador de informes de sostenibilidad con IA según la normativa europea <b>CSRD</b>. Trabajo Fin de Grado.
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -72,7 +87,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/manuel-umu/obd-map">🚗 OBD-Map</a></h3>
+      <h3><a href="https://github.com/manuel-umu/obd-map">OBD-Map</a></h3>
       <p>Navegador GPS para Android conectado a escáneres <b>OBD-II</b> por Bluetooth.</p>
       <p>
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
@@ -85,7 +100,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 SegundUM</h3>
+      <h3>SegundUM</h3>
       <p>Plataforma de compraventa de productos de segunda mano con arquitectura de microservicios.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -99,7 +114,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Personal Data Hub</h3>
+      <h3>Personal Data Hub</h3>
       <p>Centralizador de datos personales que integra las APIs de GitHub, Strava y Steam en un único panel.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
