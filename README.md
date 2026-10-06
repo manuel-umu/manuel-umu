@@ -100,7 +100,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>SegundUM</h3>
+      <h3><a href="https://github.com/manuel-umu/segundum">SegundUM</h3>
       <p>Plataforma de compraventa de productos de segunda mano con arquitectura de microservicios.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
