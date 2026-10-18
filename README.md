@@ -161,9 +161,5 @@
 ---
 
 <div align="center">
-
 ⭐ *¡Gracias por pasarte! Si te interesa colaborar o tienes alguna oportunidad, no dudes en escribirme.* ⭐
-
-<img src="https://api.visitorbadge.io/api/visitors?pageId=manuel-umu&label=Visitas&labelColor=555555&countColor=2F81F7&style=flat-square" alt="Visitas" />
-
 </div>
