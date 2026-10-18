@@ -164,6 +164,6 @@
 
 ⭐ *¡Gracias por pasarte! Si te interesa colaborar o tienes alguna oportunidad, no dudes en escribirme.* ⭐
 
-<img src="https://komarev.com/ghpvc/?username=manuel-umu&color=2F81F7&style=flat-square&label=Visitas" alt="Visitas"/>
+<img src="https://api.visitorbadge.io/api/visitors?pageId=manuel-umu&label=Visitas&labelColor=555555&countColor=2F81F7&style=flat-square" alt="Visitas" />
 
 </div>
