@@ -23,7 +23,7 @@
 - 🏢 Experiencia profesional en aplicaciones empresariales con **certificados X509 y firma digital** (FacturaE).
 - 🔭 Me interesan el diseño de **APIs REST**, la arquitectura de **microservicios** y la automatización con **CI/CD**.
 - 🌍 Español nativo · Inglés **C2**.
-- 📫 Escríbeme a **manuelchicapinera@gmail.com**
+- 📫 Escríbeme a **hola@manuelchica.dev**
 
 ---
 
