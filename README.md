@@ -16,18 +16,18 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 **Ingeniero Informático** por la Universidad de Murcia (2026).
-- ⚙️ Desarrollador **backend** especializado en **Java / Spring Boot** y **C# / .NET**.
-- 🏢 Experiencia profesional en aplicaciones empresariales con **certificados X509 y firma digital** (FacturaE).
-- 🔭 Me interesan el diseño de **APIs REST**, la arquitectura de **microservicios** y la automatización con **CI/CD**.
-- 🌍 Español nativo · Inglés **C2**.
-- 📫 Escríbeme a **hola@manuelchica.dev**
+- **Ingeniero Informático** por la Universidad de Murcia (2026).
+- Desarrollador **fullstack** especializado en **Java / Spring Boot**, **C# / .NET** y **React** / **Vue.js**.
+- Experiencia profesional en aplicaciones empresariales con **certificados X509 y firma digital** (FacturaE).
+- Me interesan el diseño de **APIs REST**, la arquitectura de **microservicios** y la automatización con **CI/CD**.
+- Español nativo · Inglés **C2**.
+- Escríbeme a **hola@manuelchica.dev**
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## Proyectos destacados
 
 <table>
     <tr>
@@ -127,29 +127,29 @@
 </table>
 
 <details>
-<summary><b>📁 Otros proyectos académicos</b></summary>
+<summary><b>Otros proyectos académicos</b></summary>
 <br>
 
-- 💬 Aplicación de mensajería en Java
-- 🗄️ Sistema P2P de almacenamiento de archivos en Java
-- 🗣️ Aplicación de aprendizaje de idiomas
-- 🧩 Compilador de un subconjunto de C
-- 🐧 Despliegue y administración de servicios HTTP, HTTPS, DNS y WebMail en Linux
+- Aplicación de mensajería en Java
+- Sistema P2P de almacenamiento de archivos en Java
+- Aplicación de aprendizaje de idiomas
+- Compilador de un subconjunto de C
+- Despliegue y administración de servicios HTTP, HTTPS, DNS y WebMail en Linux
 
 </details>
 
 ---
 
-## 🎓 Formación
+## Formación
 
 | Titulación | Centro | Periodo |
 |---|---|---|
-| 🎯 Máster en Ingeniería del Software | Universidad de Murcia | 2026 – Presente |
-| 💻 Grado en Ingeniería Informática | Universidad de Murcia | 2022 – 2026 |
+| Máster en Ingeniería del Software | Universidad de Murcia | 2026 – Presente |
+| Grado en Ingeniería Informática | Universidad de Murcia | 2022 – 2026 |
 
 ---
 
-## 📈 Estadísticas
+## Estadísticas
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=manuel-umu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -159,7 +159,3 @@
 </div>
 
 ---
-
-<div align="center">
-⭐ *¡Gracias por pasarte! Si te interesa colaborar o tienes alguna oportunidad, no dudes en escribirme.* ⭐
-</div>
